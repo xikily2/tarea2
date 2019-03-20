@@ -1,4 +1,9 @@
+body{font-family:"courir new",courier,monospace;}
+/**
 h4 {color:pink;}
 li{color:blue;}
 h2{color:green;}
 h1{color:red;}
+**/
+#titulo{background-color:grey;color:white}
+.ejemplo{background-color:blue;color:white;}
