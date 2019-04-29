@@ -1,0 +1,26 @@
+{
+box-sizing:border-box;
+-webkit-box-sizing:border-box;	
+}
+.trescolumnas{
+	border:1px solid black;
+	column-count:3;
+	-webkit-column-count:3;
+	margin:20px;
+	width:60;
+}
+.bordes{
+	column-rule:5px solid red;
+	-webkit-column-rule:5 px solid red;
+	column-gap: 40px;
+	-webkit-column-gap: 40px;
+}
+.span{
+	column-span:all;
+	-webkit-column-span:all;
+}
+p{padding:0.5em;
+}
+img{
+	width:100;
+}
